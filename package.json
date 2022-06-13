@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-creativehill",
-  "version": "1.0.0",
+  "name": "@creativehill-labs/eslint-config-creativehill",
+  "version": "0.1.0",
   "description": "CreativeHill eslint config",
   "main": "lib/index.js",
   "repository": "https://github.com/Creativehill-Labs/eslint-config-creativehill.git",
@@ -24,5 +24,8 @@
   "peerDependencies": {
     "eslint": "^7.32.0",
     "prettier": "^2.6.2"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/Creativehill-Labs"
   }
 }
