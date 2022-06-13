@@ -1,6 +1,6 @@
 {
   "name": "@creativehill-labs/eslint-config-creativehill",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CreativeHill eslint config",
   "main": "lib/index.js",
   "repository": "https://github.com/Creativehill-Labs/eslint-config-creativehill.git",
