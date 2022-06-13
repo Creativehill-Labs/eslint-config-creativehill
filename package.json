@@ -6,7 +6,6 @@
   "repository": "https://github.com/Creativehill-Labs/eslint-config-creativehill.git",
   "author": "CreativeHill Labs",
   "license": "MIT",
-  "private": true,
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.27.1",
     "@typescript-eslint/parser": "^5.27.1",
